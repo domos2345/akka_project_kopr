@@ -1,0 +1,3 @@
+SINGLETON class
+Never forget putting "synchronized" into method getInstance or use ENUM instead...
+this mistake made me debug my code for hours and all there was needed was one word. :((
